@@ -2,7 +2,7 @@
 
 This project contains code, data, and analysis of the performance of three randomized optimization algorithms - .
 
-To run this code please first install the specified packages below, clone the github repo at https://github.com/mbhimasani/Assignment_2 ,and run the Randomized Optimization jupyter notebook to reproduce results and plots.
+To run this code please first install the specified packages below, clone the github repo at https://github.com/mbhimasani/Assignment_2 ,and run the appropriate jupyter notebook associated with each optimization problem to reproduce results and plots.
 
 This code was developed with python 2.7.16. It is highly recommended to use the version that this code was developed.
 Libraries required along with version number:
@@ -12,7 +12,7 @@ numpy 1.19.2
 pandas 1.1.5
 seaborn 0.11.2
 matplotlib 3.3.4
-mlrose-hiive
+mlrose-hiive 2.2.4
 
 Citations:
 https://github.com/hiive/mlrose/tree/master/mlrose_hiive
